@@ -1,2 +1,2 @@
 # DataStructuresAndAlgo
- Data Structures and Algorithms practice
+  GeeksforGeeks Data Structures and Algorithms practice exercise
